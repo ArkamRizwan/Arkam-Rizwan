@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ArkamRizwan/Arkam-Rizwan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArkamRizwan/Arkam-Rizwan/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+	<head>
+		<style>
+			
+		</style>
+		<link rel="stylesheet" type="text/css" href="arkamCV.css">
+	</head>
+	<body>
+		
+		<div id="sitewrap">
+				
+			<img  src="Arkam.JPEG" id="picture" height="180px" width="180px"/>
+		
+			<div>
+				<h3>Arkam Rizwan</h3>
+								
+				<p>
+					Email   : <a href="mailto:mohamed.2018192@iit.ac.lk?subject=mohamed.2018192@iit.ac.lk">mohamed.2018192@iit.ac.lk </a><br>
+					Contact : +94 703 463 999
+				</p>
+			</div>
+			
+			<div id="obj">
+				<p>
+					I am a dependable person who is great at time management which makes me handle multiple tasks on a daily basis. Always energertic and eager to learn new skills bieng my nature make me use creative approaches to problem solving. 
+				</p>
+			</div>
+				
+				<dl>
+			
+					<dt>Education</dt>
+					<line>
+					
+							<h2>University of Westminster</h2>
+							<p> BSc Business Information Systems
+							<h2> Royal Institute HavlockTown</h2>
+								High school 2016-2018
+							<h2>Carey College</h2>
+							Primary 2006-2015</P>
+					</line>
+					
+					<dt>Skills</dt>
+					<line>
+				
+							<h2>Application Skills</h2>
+							<p>Adobe Photoshop , Microsoft productivity software (Ms.Office)</p>
+							<h2>Management Skills</h2>
+							<p>	
+								<ol>
+									<li>Time management</li>
+									<li>Risk management</li>
+									<li>Communication skill</li>
+								</ol>
+							</p>
+					</line>
+				
+					<dt>Hobbies</dt>
+					<line>
+				
+							<p>Watching Movies, Programming</p>
+					</line>
+					
+					
+				</dl>
+		</div>
+	
+	</body>
+</html>
